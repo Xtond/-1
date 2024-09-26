@@ -13,12 +13,12 @@
 
 | Вид сортировки | Время | Количество перестановок |
 | --- | --- | --- |
-| Bubble sort | List all new or modified files |  |
-| Insertion sort | Show file differences that haven't been staged |  |
-| Selection sort | Show file differences that haven't been staged |  |
-| Quick sort | Show file differences that haven't been staged |  |
-| Merge sort | Show file differences that haven't been staged |  |
-| Shaker sort | Show file differences that haven't been staged |  |
+| Bubble sort | 7.949412 сек | 24786861 |
+| Insertion sort | 3.723228 сек | 24786861 |
+| Selection sort | 3.138622 сек | 9888 |
+| Quick sort | 0.047077 сек | 589249 |
+| Merge sort | 0.039286 сек | 133616 |
+| Shaker sort | 7.319395 сек | 24786861 |
 
 # 100000 Элементов
 
