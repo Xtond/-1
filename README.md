@@ -24,11 +24,11 @@
 
 | Вид сортировки | Время | Количество перестановок |
 | --- | --- | --- |
-| Bubble sort | List all new or modified files |  |
-| Insertion sort | Show file differences that haven't been staged |  |
-| Selection sort | Show file differences that haven't been staged |  |
-| Quick sort | Show file differences that haven't been staged |  |
-| Merge sort | Show file differences that haven't been staged |  |
-| Shaker sort | Show file differences that haven't been staged |  |
+| Bubble sort | 737.112607 сек | 2474254104 |
+| Insertion sort | 326.089475 сек | 2474254104 |
+| Selection sort | 280.423462 сек | 99000 |
+| Quick sort | RecursionError: превышена максимальная глубина рекурсии при сравнении | RecursionError: превышена максимальная глубина рекурсии при сравнении |
+| Merge sort | RecursionError: превышена максимальная глубина рекурсии при сравнении | RecursionError: превышена максимальная глубина рекурсии при сравнении |
+| Shaker sort | RecursionError: превышена максимальная глубина рекурсии при сравнении | RecursionError: превышена максимальная глубина рекурсии при сравнении |
 
 Выполнил: Шумейко Арсений
