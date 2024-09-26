@@ -30,3 +30,5 @@
 | Quick sort | Show file differences that haven't been staged |  |
 | Merge sort | Show file differences that haven't been staged |  |
 | Shaker sort | Show file differences that haven't been staged |  |
+
+##Выполнил: Шумейко Арсений
